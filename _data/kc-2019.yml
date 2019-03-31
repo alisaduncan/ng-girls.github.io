@@ -19,7 +19,7 @@ faqs:
   - {question: "Do I need to install something on my laptop?", answer: "<p>Yes, you'll need Angular CLI installed before the workshop, but we wouldn't expect you to install anything on your own. Join us for the install & pizza party Friday night so that you're ready to hit the ground running for the workshop.</p>"}
   - {question: "Is food provided?", answer: "<p>Yes. Thanks to our sponsors, snacks and lunch will be served during the workshop.</p>"}
   - {question: "I applied! When will I hear back?", answer: "<p>Yay! You'll hear back from us after May 31st, 2019 after we have a chance to review all the applications.</p>"}
-  - {question: "I'm not a women. Can I mentor or volunteer?", answer: "<p>Yes! Everyone is welcome to mentor or volunteer. We'd love to work with you!</p>"}
+  - {question: "I'm not a woman. Can I mentor or volunteer?", answer: "<p>Yes! Everyone is welcome to mentor or volunteer. We'd love to work with you!</p>"}
   - {question: "Is there public transit to the venue?", answer: "<p>No, Johnson County Transit does not service the venue on Saturday, but we want to help! If you don't have transportation, please <a href='mailto:nggirls@kcwomenintech.org?subject=Transportation Request'>email us</a>.</p>"}
 
 partners:
